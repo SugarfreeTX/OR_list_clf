@@ -1,0 +1,32 @@
+Lead Surgeon,Date,MRN,Diagnosis Codes,Case Procedures,Service,Case Indx,Primary Categ,Sub Categ
+502051,6/30/2020,15928708,Gastric anastomotic leak [K91.89],Egd With Endosponge Exchange [1075612272],General,Y,Gastric,LM
+123292,6/29/2020,10699058,Malignant neoplasm of lower lobe of right lung (HCC) [C34.31],"Right Video Assisted Thoracic Surgery Wedge Resection, Possible Superior Segmentectomy And Mediastinal Lymphadenectomy [1075619445], Right Video Assisted Thoracic Surgery Wedge Resection, Possible Superior Segmentectomy And Mediastinal Lymphadenectomy [1075617883], 32674 [1075617882]",Thoracic,Y,Lung,L-WR
+504780,6/29/2020,10120802,Lung mass [R91.8],"Bronchoscopy [1075611394], Cervical Mediastinoscopy [1026], Left Video Assisted Thoracic Surgery Lower Lobectomy, Possible Thoracotomy [1075611488], 32480 [1075611458]",Thoracic,Y,Lung,L-LR
+504780,6/29/2020,8337121,"Malignant neoplasm of upper lobe bronchus, left (HCC) [C34.12]","Bronchoscopy [1075611394], Cervical Mediastinoscopy [1026], Left Video Assisted Thoracic Surgery Upper Lobe Wedge Resection [1075617883]",Thoracic,Y,Lung,L-LR
+123292,6/29/2020,8811377,"Endotheliosarcoma (HCC) [C49.9]
+Lung nodule [R91.1]",Right Video Assisted Thoracic Surgery Wedge Resection [1075617883],Thoracic,Y,Lung,L-WR
+502051,6/30/2020,15928708,Gastric anastomotic leak [K91.89],"Egd With Endosponge Exchange, Possible Stent Placement [1075612272]",General,Y,Gastric,LM
+134922,7/1/2020,2986261,Lung nodule [R91.1],Left Video Assisted Thoracic Surgery Wedge [1075617917],Thoracic,Y,Lung,L-WR
+122994,7/2/2020,15900342,"Gastric outlet obstruction [K31.1]
+Gastric stenosis [K31.89]","Laparoscopy Distal Gastrectomy [1078500014], Right Groin Node Excision [1078500041]",General,Y,Gastric,G/O
+504780,7/2/2020,15935431,Malignant neoplasm of bronchus and lung (HCC) [C34.90],"Bronchoscopy [1075611394], Cervical Mediastinoscopy [1026], Right Video Assisted Thoracic Surgery Upper Lobectomy, Possible Thoracotomy [1075611488], 32480 [1075611458]",Thoracic,Y,Lung,L-WR
+134922,7/2/2020,8482026,Esophageal cancer (HCC) [C15.9],Port Placement [1075617077],Thoracic,Y,Esophagus,E/O
+122994,7/6/2020,8367475,Malignant neoplasm of tail of pancreas (HCC) [C25.2],"Laparoscopic Distal Pancreatectomy With Splenectomy [1075612639], Possible Open Distal Pancreatectomy With Splenectomy (psb) [1075612624]",General,Y,Pancreas,P-W
+123292,7/6/2020,8823377,Lung nodule [R91.1],"Right Video Assisted Thoracic Surgery Wedge Resection, Possible Thoracotomy [1075617883], Possible Lower Lobectomy [1075611488], 32480 [1075611458]",Thoracic,Y,Lung,L-WR
+152600,7/7/2020,10031887,Malignant neoplasm of lower third of esophagus (HCC) [C15.5],Esophagogastroduodenoscopy [1075612211],Thoracic,Y,Esophagus,E/O
+504780,7/7/2020,14149116,"Malignant neoplasm of upper lobe of left lung (HCC) [C34.12]
+Shortness of breath [R06.02]
+Vascular disease [I99.9]
+Acute cerebrovascular insufficiency [I67.81]","Bronchoscopy [1075611394], Left Video Assisted Thoracic Surgery Upper Lobe Wedge Resection [1075617883]",Thoracic,Y,Lung,L-WR
+504780,7/7/2020,15898042,Malignant neoplasm of upper lobe of left lung (HCC) [C34.12],"Left Video Assisted Thoracic Surgery [1075611469], Possible Left Thoracotomy Upper Lobectomy [1075611458]",Thoracic,Y,Lung,L-LR
+168367,7/7/2020,7953615,Gastric adenocarcinoma (HCC) [C16.9],Laparoscopic Distal Gastrectomy [1078500014],General,Y,Gastric,G/O
+152600,7/8/2020,10031887,Malignant neoplasm of lower third of esophagus (HCC) [C15.5],"Minimally Invasive Ivor Lewis Esophagectomy [43287], Possible Jejunostomy Tube Placement [1075612322]",Thoracic,Y,Esophagus,E
+123292,7/8/2020,8323778,Lung nodule [R91.1],Right Video Assisted Thoracic Surgery Wedge Resection [1075617883],Thoracic,Y,Lung,L-WR
+122994,7/9/2020,8628768,Duodenal adenocarcinoma (HCC) [C17.0],"Diagnostic Laparoscopy [1075612660], Whipple [1075612626], Open Duodenal Resection [564]",General,Y,Pancreas,P-W
+152600,7/10/2020,2086510,Intestinal anastomotic leak [K91.89],Egd Stent Removal [1075612220],General,Y,Esophagus,LM
+142333,7/17/2020,8865097,Esophageal anastomotic leak [K91.89],Endosponge Placement [1075612272],General,Y,Esophagus,LM
+142333,7/20/2020,7713444,Epiphrenic diverticulum [K22.5],"Laparoscopic Heller Myotomy [1075617613], Laparoscopic Esophageal Diverticulectomy [158], Esophagoscopy [1075612211]",Thoracic,Y,Esophagus,E/O
+511128,7/20/2020,8233400,Malignant neoplasm of body of pancreas (HCC) [C25.1],"Distal Pancreatectomy [1075612622], Splenectomy [1075611937], Celiac Lymphadenectomy [1075611973]",General,Y,Pancreas,P-Distal
+152600,7/20/2020,8865097,Esophageal anastomotic leak [K91.89],"Pulmonary Decortication/Total (32220) [1075611448], Esophagectomy W/Thoractomy;W/Pharyngogst (43112) [8]",General,Y,Esophagus,E/O
+134922,7/23/2020,2952959,Esophageal cancer (HCC) [C15.9],"Esophagogastroduodenoscopy [1075612211], Endoscopic Subcumosal Dissection [43254]",Thoracic,Y,Esophagus,E-EMR
+134922,7/24/2020,15852533,Malignant neoplasm of overlapping sites of esophagus (HCC) [C15.8],Esophagogastroduodenoscopy With Stent Removal [1075612220],Thoracic,Y,Esophagus,E/O
