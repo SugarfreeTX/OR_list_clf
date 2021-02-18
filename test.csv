@@ -1,0 +1,10 @@
+Diagnosis Codes,Case Procedures,Service,Case Indx,Sub Categ,Primary Categ,,
+Gastric adenocarcinoma (HCC) [C16.9],"Laparoscopic Subtotal Gastrectomy With Roux-En-Y Bypass [1075612297], Esophagoscopy [1075612211]",General,Y,G,Gastric,,
+Chronic fibrosing pancreatitis (HCC) [K86.1],"Total Pancreatectomy, Auto Islet Cell Transplant [1075612630], Splenectomy [1075611937]",Transplant,Y,P,Pancreas,,
+Malignant neoplasm of abdominal esophagus (HCC) [C15.5],"Minimally Invasive Esophagectomy Ivor Lewis [43287], Laparoscopic Jejunostomy Tube Placement [1075617378], Possible Esophagogastroduodenoscopy [688]",Thoracic,Y,E,Esophagus,,
+"History of esophagectomy [Z98.890, Z90.49]",Esophagogastroduodenoscopy W/ Dilation [78],Thoracic,Y,E-HxE,Esophagus,,
+Malignant neoplasm of lesser curvature of stomach (HCC) [C16.5],"Egd [688], Laparoscopic Distal  Gastrectomy With Roux En Y [1070000770]",General,Y,G,Gastric,,
+Esophageal dysphagia [R13.10],"Esophagogastroduodenoscopy, Endoflip [78]",Thoracic,Y,O,Esophagus,,
+Malignant neoplasm of abdominal esophagus (HCC) [C15.5],Esophageal Stent Placement W/ Fluoroscopy Possible Right Chest Tube Placement [688],Thoracic,Y,O,Esophagus,,
+"Hernia, paraesophageal [K44.9]","Laparotomy- Celiotomy, Exploratory (49000)",Thoracic,N,LM,Esophagus,,O
+Malignant neoplasm of abdominal esophagus (HCC) [C15.5],Mediport Placement [1075617077],Thoracic,Y,O,Esophagus,,
