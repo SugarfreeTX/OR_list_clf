@@ -1,0 +1,14 @@
+Diagnosis Codes,Case Procedures,Service,Case Indx,Sub Categ
+Pancreatic mass [K86.89],"Laparoscopic Distal Pancreatectomy And Splenectomy [1078500003], 38120 [1075611941]",General,Y,P-Distal
+Ductal carcinoma in situ of right breast [D05.11],Right Lumpectomy [1075617330],General,Y,B-Partial M
+Other chronic pancreatitis (HCC) [K86.1],"Total Pancreatectomy, Auto Islet Cell Transplant [1075612630], Splenectomy [1075611937]",Transplant,Y,P-Total
+"Malignant neoplasm of lower-outer quadrant of right female breast (HCC) [C50.511]
+Breast CA (HCC) [C50.919]
+Absence of breast, acquired, bilateral [Z90.13]","Bilateral Total Mastectomy [1075617332], Right Axillary Sentinel Lymph Node Excisional Biopsy, Possible Right Axillary Dissection [1075611957], 38900 [1075617827], Bilateral Breast Reconstruction With Tissue Expanders [1075609766], Bilateral Placement Of Dermacell [1075617916], Bilateral Breast Reduction For Symmetry [1075609757]",General,Y,B-M
+Malignant neoplasm of lower third of esophagus (HCC) [C15.5],"Laparoscopic Cholecystectomy, Pyloroplasty, Possible Hiatal Hernia Repair With Mesh, Jejunostomy Tube Placement, Closure Of Jejunostomy [1075612301], 47562 [1075612588], 43333 (psb) [1075617799], 43659 [1075612297], 44186 [1075617378], 44227 [1075617660], Egd [1075612212], 43334 (psb) [1352]",General,Y,O
+Lung nodule [R91.1],"Right Vats Upper Lobectomy [1075611488], Possible Right Thoracotomy (psb) [1075611458]",Thoracic,Y,L-LR
+"Malignant neoplasm of upper-inner quadrant of both breasts in female, estrogen receptor positive (HCC) [C50.211, Z17.0, C50.212]","Right Lumpectomy [1075617330], Placement Of Right Breast Wire For Localization [1272], Right Sentinel Lymph Node Biopsy [1075611957]",General,Y,B-L
+"Malignant neoplasm of upper-outer quadrant of right breast in female, estrogen receptor positive (HCC) [C50.411, Z17.0]
+Secondary malignant neoplasm of axillary lymph nodes (HCC) [C77.3]","Bilateral Mastectomy [1075617332], Right Sentinel Lymph Node Biopsy, Possible Axillary Dissection [1075611957]",General,y,B-M
+"Unspecified lump in unspecified breast [N63.0]
+Benign neoplasm of left breast [D24.2]",Bilateral Excisional Breast Biopsies With Needle Localization [1075609740],General,Y,B-L
